@@ -4,6 +4,8 @@ Hello, developer :wave:!
 
 Welcome to the Telic frontend challenge.
 
+> **_NOTE:_** This challenge is part of the hiring process. We assume here that you are already in contact with someone at Telic.
+
 ## Instructions
 
 In this challenge, we expect you to:
