@@ -11,7 +11,7 @@ Welcome to the Telic frontend challenge.
 In this challenge, we expect you to:
 
 - Follow the layout indication provided on the prototypes;
-- Implement a resonsive layout, with support to mobile devices;
+- Implement a responsive layout, with good support to mobile devices;
 - Provide a runnable application;
 - Write all code and documentation in english.
 
