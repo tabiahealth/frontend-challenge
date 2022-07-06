@@ -4,18 +4,26 @@ Hello, developer :wave:!
 
 Welcome to the Telic frontend challenge.
 
+## Instructions
+
 In this challenge, we expect you to:
 
-- Follow the layout indication provided on the prototypes provided;
-- Write tests;
+- Follow the layout indication provided on the prototypes;
+- Implement a resonsive layout, with support to mobile devices;
+- Provide a runnable application;
+- Write all code and documentation in english.
+
+Some other desired requirements are:
+
+- Write unit tests;
 - Justify design choices, arguing about costs and benefits involved. You may write those as comments inline or, if you wish, provide a separate document summarizing those choices;
-- Write all code and documentation in english
 
+## Solve the challenge
 
-There is no unique solution to this challenge. The intent is to evaluate candidate's ability and familiarity with tools and best practices.
+There is no unique solution to this challenge. The main intent is to evaluate candidate's ability and familiarity with tools and best practices.
 
-To solve this challenge, you may fork this repository in a *private* repo on your profile, then provide access to:
+To solve this challenge, you may create a new *private* repository on your profile, then provide access to:
 
 [@hubefonseca](https://github.com/hubefonseca)
 
-Alternatively, if you do not want to have this repo on your profile (we totally get it), send us a git patch file with your changes.
+Alternatively, you can send us a [git patch file](https://www.devroom.io/2009/10/26/how-to-create-and-apply-a-patch-with-git/) with your changes.
