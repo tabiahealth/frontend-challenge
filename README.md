@@ -10,15 +10,21 @@ Welcome to the Telic frontend challenge.
 
 In this challenge, we expect you to:
 
-- Follow the layout indication provided on the prototypes;
-- Implement a responsive layout, with good support to mobile devices;
-- Provide a runnable application;
+- Implement a runnable application respecting the layout indication provided on [this prototype](https://www.figma.com/file/OEBEuaoyJw4cUA0fTtNN2W/Challenge);
+- Create a responsive layout, with good support to mobile devices;
 - Write all code and documentation in english.
+
+Functional requirements
+
+- The team names and grades for each metric should be dynamic and defined on a JSON file
+- The values shown on the top row should be the averages of each column (the prototype is not considering this point)
 
 Some other desired requirements are:
 
 - Write unit tests;
 - Justify design choices, arguing about costs and benefits involved. You may write those as comments inline or, if you wish, provide a separate document summarizing those choices;
+
+> If you have any questions, don't hesitate to contact us.
 
 ## Solve the challenge
 
