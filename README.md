@@ -2,9 +2,9 @@
 
 Hello, developer :wave:!
 
-Welcome to the Telic frontend challenge.
+Welcome to the Tabia frontend challenge.
 
-> **_NOTE:_** This challenge is part of the hiring process. We assume here that you are already in contact with someone at Telic.
+> **_NOTE:_** This challenge is part of the hiring process. We assume here that you are already in contact with someone at Tabia.
 
 ## Instructions
 
